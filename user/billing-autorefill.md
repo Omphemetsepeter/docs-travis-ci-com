@@ -1,3 +1,4 @@
+![Screenshot_20230512_095130_Chrome](https://github.com/travis-ci/docs-travis-ci-com/assets/96711254/c682fecf-739b-4696-83bb-c1924f738beb)
 ---
 title: Billing Autorefill
 layout: en
