@@ -481,7 +481,9 @@ before_install:
 ```
 {: data-file=".travis.yml"}
 
-We advise verifying the validity of the download URL [on ElasticSearch's website](https://www.elastic.co/downloads/elasticsearch).
+We advise verifying the validity of the download URL [on ElasticSearch's website](https://www.elastic.![Screenshot_20230512_095344_Chrome](https://github.com/travis-ci/docs-travis-ci-com/assets/96711254/2128bb1d-7e3f-479c-989a-4b508ceb8910)
+![Uploading Screenshot_20230512_095130_Chrome.jpg…]()
+co/downl0poads/elasticsearch).
 
 ### Truncated Output in the Build Log
 
